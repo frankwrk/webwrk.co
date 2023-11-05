@@ -39,7 +39,7 @@
     "oscarotero/env": "1.1.0",
     "roots/wordpress": "5.2",
     "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.0.0",
+    "roots/wp-password-bcrypt": "1.1.0",
     "fahimxyz/wp-shift-db": "dev-master@dev",
     "dawidurbanski/wp-sync-db-media-files": "dev-master"
   },
