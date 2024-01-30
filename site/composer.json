@@ -37,7 +37,7 @@
     "composer/installers": "1.6.0",
     "vlucas/phpdotenv": "3.3.3",
     "oscarotero/env": "1.1.0",
-    "roots/wordpress": "5.2",
+    "roots/wordpress": "6.4.3",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "fahimxyz/wp-shift-db": "dev-master@dev",
